@@ -1749,14 +1749,15 @@ ul.grid_2 li {
 }
 .grid1_of_4{
     float: left;
-    width: 23.22222%;
+    width: 22.2%;
     margin-left: 2.33333%;
+    margin-bottom: 2%;
     text-align:center;
 }
-.grid1_of_4:first-child{
+/*.grid1_of_4:first-child{
     margin-left: 0;
     text-align:center;
-}
+}*/
 .grid1_of_4 h4 {
     font-size:16px;
     margin-top:5px;
@@ -3492,7 +3493,7 @@ p.cart a {
     }
     ul#etalage{
         display: block;
-        width: 285px !important;
+        width: 350px !important;
         height: 533px;
     }
     li.etalage_magnifier{
